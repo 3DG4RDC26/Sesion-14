@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion14\\Calculadora\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2FCEDC02-6410-4D15-AA4E-17C5E73385E2}|Calculadora.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion14\\calculadora\\clases\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCEDC02-6410-4D15-AA4E-17C5E73385E2}|Calculadora.csproj|solutionrelative:clases\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FCEDC02-6410-4D15-AA4E-17C5E73385E2}|Calculadora.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion14\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2FCEDC02-6410-4D15-AA4E-17C5E73385E2}|Calculadora.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion14\\Calculadora\\clases\\Operation.cs",
+              "RelativeDocumentMoniker": "clases\\Operation.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion14\\Calculadora\\clases\\Operation.cs",
+              "RelativeToolTip": "clases\\Operation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:09:16.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion14\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
